@@ -21,7 +21,7 @@
     "body-parser": "^1.18.1",
     "class-validator": "^0.12.2",
     "cors": "^2.8.5",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "reflect-metadata": "^0.1.10",
     "sqlite3": "^v4.1.1",
